@@ -1,7 +1,7 @@
-# Beans
+# Project Title
 [![License: PDDL](https://img.shields.io/badge/License-PDDL-yellow.svg)](https://opensource.org/licenses/PDDL)
  ## Description
- - Bean maker
+ - A description of my project
      
  ## Table of Contents 
  - [Installation](#installation)
@@ -12,19 +12,19 @@
  - [Question](#questions)
      
  ## Installation
- - s
+ - How to install
      
  ## Usage
- - s
+ - This is how you use it
      
  ## License
  - PDDL
      
  ## Contributing
- - s
+ - Contribution Guidelines
      
  ## Tests
- - s
+ - This is how you test it
      
  ## Questions
- - [ElijahNance](https://www.github.com/ElijahNance). If you have any further questions you can reach me at my email, 123@gmail.com.
+ - [ElijahNance](https://www.github.com/ElijahNance). If you have any further questions you can reach me at my email, fun123@gmail.com.
