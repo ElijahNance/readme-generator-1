@@ -1,4 +1,5 @@
 # Project Title
+- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 - filler text filler text filler textfiller textfiller text filler text filler text filler text filler text filler text filler text
